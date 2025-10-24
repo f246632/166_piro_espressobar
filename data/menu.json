@@ -1,0 +1,55 @@
+{
+  "coffee": [
+    {
+      "name": "Espresso",
+      "description": "Klassischer italienischer Espresso",
+      "price": "2.50 €"
+    },
+    {
+      "name": "Cappuccino",
+      "description": "Perfekt ausbalanciert mit Milchschaum",
+      "price": "3.50 €"
+    },
+    {
+      "name": "Latte Macchiato",
+      "description": "Cremig und mild",
+      "price": "3.80 €"
+    },
+    {
+      "name": "Flat White",
+      "description": "Australische Spezialität",
+      "price": "3.90 €"
+    },
+    {
+      "name": "Americano",
+      "description": "Espresso mit heißem Wasser",
+      "price": "3.00 €"
+    }
+  ],
+  "tea": [
+    {
+      "name": "Große Teeauswahl",
+      "description": "Verschiedene Premium-Teesorten",
+      "price": "3.50 €"
+    }
+  ],
+  "food": [
+    {
+      "name": "Hausgemachte Kuchen",
+      "description": "Täglich frische Auswahl, auch vegan",
+      "price": "ab 3.50 €"
+    },
+    {
+      "name": "Gebäck",
+      "description": "Frische Backwaren",
+      "price": "ab 2.00 €"
+    }
+  ],
+  "specialties": [
+    "Vegan-freundlich",
+    "Hausgemachte Kuchen",
+    "Premium-Kaffeebohnen",
+    "Große Teeauswahl"
+  ],
+  "price_range": "€1-10 pro Person"
+}

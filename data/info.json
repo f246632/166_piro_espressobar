@@ -1,0 +1,44 @@
+{
+  "name": "piro espressobar",
+  "category": "Café & Espressobar",
+  "address": {
+    "street": "Friedrich-Karl-Straße 7",
+    "postal": "12103",
+    "city": "Berlin",
+    "district": "Tempelhof",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 163 2028385",
+    "email": "info@piroespressobar.de",
+    "phone_display": "+49 163 2028385"
+  },
+  "hours": {
+    "note": "Bitte rufen Sie an oder besuchen Sie unsere Social Media für aktuelle Öffnungszeiten"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/piroespressobar/",
+    "instagram_handle": "@piroespressobar"
+  },
+  "maps": {
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=piro%20espressobar&query_place_id=ChIJ58RsqnlFqEcRU68Yts-IrpA"
+  },
+  "description": {
+    "short": "Gemütliche Espressobar in Berlin-Tempelhof mit exzellentem Kaffee und hausgemachten Kuchen",
+    "long": "Willkommen bei piro espressobar – Ihrem gemütlichen Rückzugsort im Herzen von Tempelhof. Wir sind ein familiengeführtes Café, das sich der Kunst des perfekten Espressos und hausgemachten Backwaren verschrieben hat. Bei uns finden Sie eine große Auswahl an Premium-Kaffeespezialitäten, feine Teesorten und täglich frische Kuchen – auch in veganen Varianten. Ob Sie allein speisen, mit Freunden plaudern oder einfach eine Auszeit vom Alltag nehmen möchten – bei piro espressobar sind Sie herzlich willkommen."
+  },
+  "features": [
+    "Große Auswahl an Teesorten",
+    "Guter Kaffee",
+    "Allein speisen",
+    "Vegan-freundlich",
+    "Hausgemachte Kuchen",
+    "Gemütliche Atmosphäre",
+    "Familiengeführt"
+  ],
+  "ratings": {
+    "google": "5.0",
+    "tripadvisor": "5.0",
+    "total_reviews": "300+"
+  }
+}

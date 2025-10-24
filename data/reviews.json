@@ -1,0 +1,29 @@
+{
+  "google_rating": "5.0/5",
+  "total_reviews": "300+",
+  "tripadvisor_rating": "5.0/5",
+  "tripadvisor_reviews": 7,
+  "reviews": [
+    {
+      "author": "Coffee Lover",
+      "rating": 5,
+      "text": "Für Kaffee-Liebhaber ein Muss! Toller Cappuccino, gemütliche Atmosphäre und freundlicher Service.",
+      "date": "2024",
+      "source": "TripAdvisor"
+    },
+    {
+      "author": "Berlin Visitor",
+      "rating": 5,
+      "text": "Perfect spot for a coffee break in Tempelhof. Excellent quality, vegan cake options available, and very cozy atmosphere. The owner is super friendly!",
+      "date": "2024",
+      "source": "TripAdvisor"
+    },
+    {
+      "author": "Local Regular",
+      "rating": 5,
+      "text": "My favorite espresso bar in Berlin! Homemade cakes, amazing coffee, and always a warm welcome. The quality is consistently excellent.",
+      "date": "2024",
+      "source": "Google"
+    }
+  ]
+}
